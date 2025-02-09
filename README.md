@@ -1,7 +1,6 @@
-# LMM4Rec
-Source code of our LMM4Rec paper
+# Source code of our LMM4Rec paper
 
-# Our paper entitled "Enhancing Recommender Systems: Deep Modality Alignment with Large Multi-Modal Encoders"
+# Our paper entitled "Enhancing Recommender Systems: Deep Modality Alignment with Large Multi-Modal Encoders" (LMM4Rec)
 
 ## Citation
 If you want to use our codes in your research, please cite:
